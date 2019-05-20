@@ -1,0 +1,8 @@
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\bin\Debug\get_graphics_image.exe.config
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\bin\Debug\get_graphics_image.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\bin\Debug\get_graphics_image.pdb
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\obj\Debug\get_graphics_image.Form1.resources
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\obj\Debug\get_graphics_image.Properties.Resources.resources
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\obj\Debug\get_graphics_image.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\obj\Debug\get_graphics_image.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\get_graphics_image\obj\Debug\get_graphics_image.pdb

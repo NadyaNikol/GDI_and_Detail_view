@@ -1,0 +1,8 @@
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\bin\Debug\Simple_paint_figure.exe.config
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\bin\Debug\Simple_paint_figure.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\bin\Debug\Simple_paint_figure.pdb
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\obj\Debug\Simple_paint_figure.Properties.Resources.resources
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\obj\Debug\Simple_paint_figure.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\obj\Debug\Simple_paint_figure.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\obj\Debug\Simple_paint_figure.pdb
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\Simple_paint_figure\obj\Debug\Simple_paint_figure.csprojResolveAssemblyReference.cache

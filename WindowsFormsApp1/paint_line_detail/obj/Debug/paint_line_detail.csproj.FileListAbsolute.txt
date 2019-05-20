@@ -1,0 +1,7 @@
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\paint_line_detail\bin\Debug\paint_line_detail.exe.config
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\paint_line_detail\bin\Debug\paint_line_detail.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\paint_line_detail\bin\Debug\paint_line_detail.pdb
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\paint_line_detail\obj\Debug\paint_line_detail.Properties.Resources.resources
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\paint_line_detail\obj\Debug\paint_line_detail.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\paint_line_detail\obj\Debug\paint_line_detail.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\paint_line_detail\obj\Debug\paint_line_detail.pdb

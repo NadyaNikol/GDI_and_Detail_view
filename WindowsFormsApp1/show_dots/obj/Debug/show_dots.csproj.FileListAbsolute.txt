@@ -1,0 +1,7 @@
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\show_dots\bin\Debug\show_dots.exe.config
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\show_dots\bin\Debug\show_dots.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\show_dots\bin\Debug\show_dots.pdb
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\show_dots\obj\Debug\show_dots.Properties.Resources.resources
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\show_dots\obj\Debug\show_dots.csproj.GenerateResource.Cache
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\show_dots\obj\Debug\show_dots.exe
+C:\Users\PKO\Desktop\1111\GDI_and_Detail_view\WindowsFormsApp1\show_dots\obj\Debug\show_dots.pdb
